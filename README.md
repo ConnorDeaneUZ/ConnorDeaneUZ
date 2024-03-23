@@ -1,13 +1,13 @@
 # Hey, I'm Connor 👋
 
-I'm a passionate **frontend developer** specializing in **Vue.js, Nuxt, TypeScript,** and **Tailwind**. Currently based in the heart of the sports industry, I craft engaging websites for some of the biggest football teams and sports brands globally. My work is dedicated to enhancing digital experiences for sports enthusiasts everywhere.
+I'm a passionate **frontend developer** specializing in `Vue.js`, `Nuxt`, `TypeScript`, and `Tailwind`. Currently based in the heart of the sports industry, I craft engaging websites for some of the biggest football teams and sports brands globally. My work is dedicated to enhancing digital experiences for sports enthusiasts everywhere.
 
 ## 🛠 Toolbox
 - **Frontend Development:** Vue.js, Nuxt, TypeScript, Tailwind
-- **Version Control:** Git, ensuring code integrity and collaboration efficiency.
+- **Version Control:** `Git`, ensuring code integrity and collaboration efficiency.
 - **Backend Familiarity:** I occasionally dabble in backend technologies to maintain a well-rounded skill set.
-- **Testing:** Emphasis on robust testing to ensure quality and reliability using Vitest.
-- **Others:** A strong advocate for user experience, accessibility, and agile methodologies. Experience using Atlassian services Jira and Confluence, and design tools inlcuding Figma and Sketch.
+- **Testing:** Emphasis on robust testing to ensure quality and reliability using `Vitest`.
+- **Others:** A strong advocate for user experience, accessibility, and agile methodologies. Experience using Atlassian services `Jira` and `Confluence`, and design tools inlcuding `Figma` and `Sketch`.
 
 ## ✨ Fun Facts
 - My ultimate dream would be to play on the PGA Tour.
