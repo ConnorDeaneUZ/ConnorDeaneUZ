@@ -10,7 +10,7 @@ I'm a passionate **frontend developer** specializing in **Vue.js, Nuxt, TypeScri
 - **Others:** A strong advocate for user experience, accessibility, and agile methodologies. Experience using Atlassian services Jira and Confluence, and design tools inlcuding Figma and Sketch.
 
 ## ✨ Fun Facts
-- My ultimate dream would to play on the PGA Tour.
+- My ultimate dream would be to play on the PGA Tour.
 - Growing up, my love for technology and coding was born from watching my father on his computer.
 - I'm an avid coffee enthusiast – it fuels my coding marathons!
 
