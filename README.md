@@ -1,6 +1,6 @@
 # Hey, I'm Connor 👋
 
-I'm a passionate **frontend developer** specializing in `Vue.js`, `Nuxt`, `TypeScript`, and `Tailwind`. Currently based in the heart of the sports industry, I craft engaging websites for some of the biggest football teams and sports brands globally. My work is dedicated to enhancing digital experiences for sports enthusiasts everywhere.
+I'm a passionate **frontend developer** specialising in `Vue.js`, `Nuxt`, `TypeScript`, and `Tailwind`. Currently based in the heart of the sports industry, I craft engaging websites for some of the biggest football teams and sports brands globally. My work is dedicated to enhancing digital experiences for sports enthusiasts everywhere.
 
 ## 🛠 Toolbox
 - **Frontend Development:** Vue.js, Nuxt, TypeScript, Tailwind
