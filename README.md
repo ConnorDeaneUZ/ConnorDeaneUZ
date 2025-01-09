@@ -8,18 +8,18 @@ As technology evolves, I'm excited to merge my web development expertise with AI
 
 ## 🛠 Toolbox
 - **Frontend Development:** Vue.js, Nuxt, TypeScript, Tailwind  
-- **AI Exploration:** Experimenting with AI tools and frameworks, including `TensorFlow` and `OpenAI APIs`, to bring smarter, more intuitive experiences to users.  
+- **AI Exploration:** Experimenting with AI tools and frameworks, including `PyTorch` and `OpenAI APIs`, to bring smarter, more intuitive experiences to users.  
 - **Version Control:** `Git`, ensuring code integrity and collaboration efficiency.  
-- **Backend Familiarity:** I occasionally dabble in backend technologies to maintain a well-rounded skill set.  
+- **Backend Familiarity:** I occasionally dabble in backend technologies such as `Supabase` to maintain a well-rounded skill set.  
 - **Testing:** Emphasis on robust testing to ensure quality and reliability using `Vitest`.  
-- **Others:** A strong advocate for user experience, accessibility, and agile methodologies. Experience using Atlassian services `Jira` and `Confluence`, and design tools including `Figma` and `Sketch`.  
+- **Others:** A strong advocate for user experience, accessibility, and agile methodologies. Experience using Atlassian services `Jira` and `Confluence`, and design tools including `Figma`.  
 
 ---
 
 ## ✨ Fun Facts
 - My ultimate dream would be to play on the PGA Tour.  
 - Growing up, my love for technology and coding was born from watching my father on his computer.  
-- I'm an avid coffee enthusiast – it fuels my coding and AI exploration marathons!  
+- I'm a music lover, chess player and big reader.
 - I believe the future is AI-driven, and I’m excited to keep learning and contributing to this space.
 
 ---
