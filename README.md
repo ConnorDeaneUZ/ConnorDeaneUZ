@@ -1,5 +1,7 @@
 # Hey, I'm Connor 👋
 
+https://github-readme-activity-graph.vercel.app/graph?username=connordeaneuz&theme=github-compact&bg_color=202020&hide_title=true
+
 I'm a passionate **frontend developer** specialising in `Vue.js`, `Nuxt`, `TypeScript`, and `Tailwind`, with a growing interest in **AI development**. Based in the heart of the sports industry, I craft engaging websites for some of the biggest football teams and sports brands globally. I’m constantly exploring ways to enhance digital experiences, whether through seamless user interfaces or innovative AI-driven solutions.
 
 As technology evolves, I'm excited to merge my web development expertise with AI, exploring how machine learning can revolutionise the way users interact with digital platforms. From personalised content recommendations to intelligent automation, I'm keen to see how AI can transform the sports industry — and beyond.
