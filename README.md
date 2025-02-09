@@ -21,8 +21,3 @@ As technology evolves, I'm excited to merge my web development expertise with AI
 - Growing up, my love for technology and coding was born from watching my father on his computer.  
 - I'm a music lover, chess player and big reader.
 - I believe the future is AI-driven, and I’m excited to keep learning and contributing to this space.
-
----
-
-## 📫 Contact
-**LinkedIn:** For a quick response, [DM me on LinkedIn](https://www.linkedin.com/in/connor-deane-524483168). Let's connect and talk about sports, tech, AI, and everything in between!
